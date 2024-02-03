@@ -1,5 +1,2 @@
-ivy
-  lulu
 
-kelly
 nana
